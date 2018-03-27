@@ -7,6 +7,6 @@
 
 interface Domoticz Custom pour statistiques de consommation
 
-![alt tag](https://github.com/guillory/mcu_spa/blob/master/IMG_20180327_220951.jpg)
-![alt tag](https://github.com/guillory/mcu_spa/blob/master/IMG_20180327_220857.jpg)
-![alt tag](https://github.com/guillory/mcu_spa/blob/master/domoticz.png)
+![alt tag](https://github.com/guillory/Catfeed/blob/master/IMG_20180327_220951.jpg)
+![alt tag](https://github.com/guillory/Catfeed/blob/master/IMG_20180327_220857.jpg)
+![alt tag](https://github.com/guillory/Catfeed/blob/master/domoticz.png)
